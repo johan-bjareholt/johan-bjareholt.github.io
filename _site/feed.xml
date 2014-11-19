@@ -4,10 +4,10 @@
     <title>Johan Bjäreholt</title>
     <description>My name is Johan Bjäreholt, and i am currently a software engineering student from Sweden. This sites purpose is to give a brief summary of who i am so others can find me and share interests and ideas.
 </description>
-    <link>/johan-bjareholt.github.io/</link>
-    <atom:link href="/johan-bjareholt.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Nov 2014 14:22:37 +0100</pubDate>
-    <lastBuildDate>Wed, 19 Nov 2014 14:22:37 +0100</lastBuildDate>
+    <link>johan-bjareholt.github.io/</link>
+    <atom:link href="johan-bjareholt.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 19 Nov 2014 14:27:32 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Nov 2014 14:27:32 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -24,8 +24,8 @@
 
 </description>
         <pubDate>Wed, 19 Nov 2014 14:03:40 +0100</pubDate>
-        <link>/johan-bjareholt.github.io/jekyll/update/2014/11/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/johan-bjareholt.github.io/jekyll/update/2014/11/19/welcome-to-jekyll.html</guid>
+        <link>johan-bjareholt.github.io/jekyll/update/2014/11/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">johan-bjareholt.github.io/jekyll/update/2014/11/19/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

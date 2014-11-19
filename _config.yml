@@ -1,12 +1,16 @@
 # Site settings
 title: Johan Bjäreholt
-email: johan@bjareho.lt
 description: > # this means to ignore newlines until "baseurl:"
   My name is Johan Bjäreholt, and i am currently a software engineering student from Sweden.
   This sites purpose is to give a brief summary of who i am so others can find me and share interests and ideas.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "/johan-bjareholt.github.io" # the base hostname & protocol for your site
+url: "johan-bjareholt.github.io" # the base hostname & protocol for your site
+
+permalink: /blog/:year/:month/:day/:title/
+timezone: Europe/Stockholm
+
+# Contact info
+email: johan@bjareho.lt
 twitter_username: zenolijo
 github_username:  johan-bjareholt
 
