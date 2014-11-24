@@ -8,7 +8,8 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+$background-color:#999;
+$foreground-color:#fff;
 
 /**
  * Basic styling
@@ -20,6 +21,7 @@ body {
     font-weight: 300;
     color: $text-color;
     background-color: $background-color;
+    background-image: url("/img/background.png");
     -webkit-text-size-adjust: 100%;
 }
 
@@ -159,8 +161,10 @@ pre {
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
+    border-radius: 7px;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
+    background-color: $foreground-color;
     @extend %clearfix;
 
     @include media-query($on-laptop) {

@@ -1,18 +1,23 @@
 # Site settings
 title: Johan Bjäreholt
-description: > # this means to ignore newlines until "baseurl:"
+description: > 
   My name is Johan Bjäreholt, and i am currently a software engineering student from Sweden.
-  This sites purpose is to give a brief summary of who i am so others can find me and share interests and ideas.
+  I am a curious guy who looks for people to share interests and ideas with.
+  This sites purpose is to showcase my freetime projects and inspire others.
 
 url: "johan-bjareholt.github.io" # the base hostname & protocol for your site
 
-permalink: /blog/:year/:month/:day/:title/
+permalink: /post/:title/
 timezone: Europe/Stockholm
 
 # Contact info
 email: johan@bjareho.lt
-twitter_username: zenolijo
+twitter_username: johan_bjareholt
+googleplus_username: JohanBjäreholt
 github_username:  johan-bjareholt
+facebook_username: johan.bjareholt
+linkedin_username: johan-bjareholt
+
 
 # Build settings
 markdown: kramdown
