@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-  My name is Johan Bjäreholt, and i am currently a software engineering student from Sweden.
+  My name is Johan Bjäreholt, and I am currently a software engineering student from Sweden.
   I am a curious guy who looks for people to share interests and ideas with.
-  This sites purpose is to showcase my freetime projects and inspire others.
+  This sites purpose is to showcase my free time projects and inspire others.
 
 
 #### Regularly visited websites
