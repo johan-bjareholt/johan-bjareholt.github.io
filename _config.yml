@@ -11,12 +11,13 @@ permalink: /post/:title/
 timezone: Europe/Stockholm
 
 # Contact info
+name: Johan Bjäreholt
 email: johan@bjareho.lt
 twitter_username: johan_bjareholt
 googleplus_username: JohanBjäreholt
 github_username:  johan-bjareholt
 facebook_username: johan.bjareholt
-linkedin_username: johan-bjareholt
+linkedin_username: 234482057
 
 
 # Build settings
