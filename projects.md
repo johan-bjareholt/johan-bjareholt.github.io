@@ -21,11 +21,11 @@ permalink: /projects/
 ##Audio
 
 #### Boomboxes
-- [Boombox 1](boombox-1)
-- [Boombox 3](boombox-3)
-- [Boombox 4](boombox-4)
-- [Boombox 5](boombox-5)
+- [Boombox 1](/post/boombox-1)
+- [Boombox 3](/post/boombox-3)
+- [Boombox 4](/post/boombox-4)
+- [Boombox 5](/post/boombox-5)
 
 #### Amplifiers
-- [41hz amp9 kit](41hz-amp9)
-- [Cmoy op-amp](cmoy-op-amp)
+- [41hz amp9 kit](/post/41hz-amp9)
+- [Cmoy op-amp](/post/cmoy-op-amp)
