@@ -2,6 +2,7 @@
 layout: post
 title:  "Pong"
 date:   2013-01-20 12:00:00
+status: complete
 categories: project programming
 ---
 Status: Complete
