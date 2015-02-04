@@ -8,7 +8,7 @@ permalink: /about/
   I am a curious guy who looks for people to share interests and ideas with.
   This sites purpose is to showcase my free time projects and inspire others.
 
-  My primary interests are programming, open source, audio and anything relating to self improvement related like habit logging, nootropics, 
+  My primary interests are programming and open source, but have alot of secondary interests like audio, electrical engineering.
 
 #### Regularly visited websites
 - Reddit
