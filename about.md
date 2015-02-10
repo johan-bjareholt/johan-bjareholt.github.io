@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-  My name is Johan Bjäreholt, and I am currently a software engineering student from Sweden.
+  My name is Johan Bjäreholt, and I am a software engineering student from Sweden.
   I am a curious guy who looks for people to share interests and ideas with.
   This sites purpose is to showcase my free time projects and inspire others.
 
-  My primary interests are programming and open source, but have alot of secondary interests like audio, electrical engineering.
+  My primary interests are programming and open source, but have alot of secondary interests like audio and electrical engineering.
 
 #### Regularly visited websites
 - Reddit
@@ -30,6 +30,9 @@ Headphones
 
 Computer
 
+- Arch Linux
+- bspwm
+
 - Phenom I x4 2.4ghz
 - 6gb DDR2 ram
 - Nvidia 750ti
@@ -39,5 +42,3 @@ Computer
 - 21" BenQ 1080p
 - 2x 19" Samsung 1280x1024
 
-- Arch Linux
-- bspwm

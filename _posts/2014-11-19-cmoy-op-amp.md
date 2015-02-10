@@ -8,3 +8,5 @@ Status: Incomplete
 
 - Small and well performing pocket amp
 - Driven by a single 3.7v 18650 battery
+
+![Picture of the op ammp](/img/projects/cmoy-op-amp-1.jpg)
