@@ -14,58 +14,39 @@
           </li>
           {% endif %}
         </ul>
+        <div class="social-media-list">
+          {% if site.github_username %}
+            <a href="https://github.com/{{ site.github_username }}">
+              <img src="/img/contact/webicon-github.svg" width="25px" height="25px">
+            </a>
+          {% endif %}
+          {% if site.googleplus_username %}
+            <a href="https://plus.google.com/+{{ site.googleplus_username }}">
+              <img src="/img/contact/webicon-googleplus.svg" width="25px" height="25px">
+            </a>
+          {% endif %}
+          {% if site.facebook_username %}
+            <a href="https://facebook.com/{{ site.facebook_username }}">
+              <img src="/img/contact/webicon-facebook.svg" width="25px" height="25px">
+            </a>
+          {% endif %}
+          {% if site.linkedin_username %}
+            <a href="https://www.linkedin.com/profile/view?id={{ site.linkedin_username }}">
+              <img src="/img/contact/webicon-linkedin.svg" width="25px" height="25px">
+            </a>
+          {% endif %}
+          {% if site.soundcloud_username %}
+            <a href="https://soundcloud.com/{{ site.soundcloud_username }}">
+              <img src="/img/contact/webicon-soundcloud.svg" width="25px" height="25px">
+            </a>
+          {% endif %}
+        </div>
       </div>
       <div class="footer-col  footer-col-2">
         <p class="text">{{ site.description }}</p>
       </div>
-      <div class="footer-col  footer-col-3">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            <a href="https://github.com/{{ site.github_username }}">
-              <img src="/img/contact/webicon-github.svg" width="25px" height="25px">
-              <span class="username">{{ site.github_username }}</span>
-            </a>
-          </li>
-          {% endif %}
-
-          {% if site.googleplus_username %}
-          <li>
-            <a href="https://plus.google.com/+{{ site.googleplus_username }}">
-              <img src="/img/contact/webicon-googleplus.svg" width="25px" height="25px">
-              <span class="username">{{ site.googleplus_username }}</span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.facebook_username %}
-          <li>
-            <a href="https://facebook.com/{{ site.facebook_username }}">
-              <img src="/img/contact/webicon-facebook.svg" width="25px" height="25px">
-              <span class="username">{{ site.facebook_username }}</span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.linkedin_username %}
-          <li>
-            <a href="https://www.linkedin.com/profile/view?id={{ site.linkedin_username }}">
-              <img src="/img/contact/webicon-linkedin.svg" width="25px" height="25px">
-              <span class="username">{{ site.name }}</span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.soundcloud_username %}
-          <li>
-            <a href="https://soundcloud.com/{{ site.soundcloud_username }}">
-              <img src="/img/contact/webicon-soundcloud.svg" width="25px" height="25px">
-              <span class="username">{{ site.soundcloud_username}}</span>
-            </a>
-          </li>
-          {% endif %}
-        </ul>
-      </div>
     </div>
-
   <div class="line"></div>
-  </div>
+</div>
 
 </footer>
