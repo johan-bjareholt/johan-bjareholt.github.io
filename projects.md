@@ -17,7 +17,7 @@ permalink: /projects/
 
 #### Linux
 - [zentwm](https://github.com/johan-bjareholt/zentwm)
-
+- [dotfiles](https://github.com/johan-bjareholt/linux-configs)
 
 
 

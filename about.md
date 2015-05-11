@@ -17,7 +17,7 @@ permalink: /about/
 - Stack Exchange
 - Arch Linux Forum, Wiki and AUR
 
-#### Current toys
+#### Current gear
 
 Phone
 
@@ -26,7 +26,12 @@ Phone
 Headphones
 
 - Audio Technica M50s LE
+- AKG 553 Pro
 - AKG 612 Pro
+
+DAC
+
+- FX-Audio DAC-X3
 
 Computer
 
