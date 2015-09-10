@@ -21,13 +21,14 @@ permalink: /about/
 
 Phone
 
+- Xiaomi Mi 4i white
 - Nexus 5 16gb white
 
 Headphones
 
-- Audio Technica M50s LE
 - AKG 553 Pro
 - AKG 612 Pro
+- Audio Technica M50s LE
 
 DAC
 

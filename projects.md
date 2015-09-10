@@ -9,16 +9,24 @@ permalink: /projects/
 #### Python
 - [pygame-pong](https://github.com/johan-bjareholt/pygame-pong)
 - [pygame-rpg](https://github.com/johan-bjareholt/pygame-rpg)
+- [tiny-gtk-chat](https://github.com/johan-bjareholt/tiny-gtk-chat)
 - [algobit](https://github.com/algobit)
 
 #### C++
 - [sdl2](https://github.com/johan-bjareholt/sdl2-test)
+- [2d spacesim](https://github.com/johan-bjareholt/spacesim-2d)
 - [irrlicht](https://github.com/johan-bjareholt/irrlicht-test)
 
 #### Linux
 - [zentwm](https://github.com/johan-bjareholt/zentwm)
 - [dotfiles](https://github.com/johan-bjareholt/linux-configs)
+- [simple-image-viewer](https://github.com/johan-bjareholt/simple-image-viewer)
 
+#### Android
+- [Doodle Jump/Icy Tower clone](https://github.com/johan-bjareholt/DV1549-project)
+
+#### Arduino
+- [Floppy Piano with Interface](https://github.com/johan-bjareholt/Floppy-Piano-Arduino)
 
 
 ##Audio
