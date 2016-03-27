@@ -26,11 +26,15 @@ permalink: /projects/
 - [ARCableViewer](/post/AR-Cable-Viewer)
 - [Doodle Jump/Icy Tower clone](https://github.com/johan-bjareholt/DV1549-project)
 
+
+
+## Electronics
+
+#### Keyboards
+- [Ergodox Infinity](/post/ergodox-infinity)
+
 #### Arduino
 - [Floppy Piano with Interface](https://github.com/johan-bjareholt/Floppy-Piano-Arduino)
-
-
-## Audio
 
 #### Boomboxes
 - [Boombox 1](/post/boombox-1)
