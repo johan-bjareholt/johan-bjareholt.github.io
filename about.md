@@ -21,6 +21,7 @@ permalink: /about/
 
 Phone
 
+- Xiaomi Redmi Note 3
 - Xiaomi Mi 4i white
 - Nexus 5 16gb white
 
@@ -39,11 +40,11 @@ Computer
 - Arch Linux
 - bspwm
 
-- Phenom I x4 2.4ghz
-- 6gb DDR2 ram
+- Intel Core i5 6600k + Antec Kühler 620
+- 8GB DDR4 ram
 - Nvidia 750ti
 - 120gb SSD
-- 2tb HDD
+- 2x2tb HDD
 
 - 21" BenQ 1080p
 - 2x 19" Samsung 1280x1024
