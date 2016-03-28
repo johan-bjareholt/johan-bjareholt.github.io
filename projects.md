@@ -11,6 +11,7 @@ permalink: /projects/
 - [pygame-rpg](https://github.com/johan-bjareholt/pygame-rpg)
 - [tiny-gtk-chat](https://github.com/johan-bjareholt/tiny-gtk-chat)
 - [algobit](https://github.com/algobit)
+- [Homebrain](/post/homebrain/)
 
 #### C++
 - [sdl2](https://github.com/johan-bjareholt/sdl2-test)
@@ -24,7 +25,7 @@ permalink: /projects/
 
 #### Android
 - [ARCableViewer](/post/AR-Cable-Viewer)
-- [Doodle Jump/Icy Tower clone](https://github.com/johan-bjareholt/DV1549-project)
+- [BallJump](https://github.com/johan-bjareholt/BallJump)
 
 
 
