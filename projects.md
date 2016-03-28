@@ -27,6 +27,8 @@ permalink: /projects/
 - [ARCableViewer](/post/AR-Cable-Viewer)
 - [BallJump](https://github.com/johan-bjareholt/BallJump)
 
+#### Interpreters
+- [lua-interpreter](https://github.com/johan-bjareholt/lua-interpreter/)
 
 
 ## Electronics

@@ -7,7 +7,7 @@ permalink: /tor/
 <br>
 
 <iframe
-	style="width: 100%; height: 270px; overflow: hidden;"
+	style="width: 100%; height: 300px; overflow: hidden;"
 	frameBorder="0"
 	scrolling="no"
 	seamless="seamless"
