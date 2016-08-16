@@ -36,6 +36,9 @@ permalink: /projects/
 #### Keyboards
 - [Ergodox Infinity](/post/ergodox-infinity)
 
+#### Guitars
+- [DIY Electric Guitar (LP)](/post/diy-guitar-lp)
+
 #### Arduino
 - [Floppy Piano with Interface](https://github.com/johan-bjareholt/Floppy-Piano-Arduino)
 
