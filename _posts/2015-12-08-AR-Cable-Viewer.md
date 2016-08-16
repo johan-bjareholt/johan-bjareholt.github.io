@@ -7,10 +7,10 @@ categories: project android java
 ---
 Status: Complete
 
-During the first semester of my second year at Blekinge Institute of Technology, I had a course named 'Idividual Project' where we got assigned a company which gave us a project to work on for 4 months.
-I got to work for Softhouse Baltic AB, a division of Softhouse Consulting in Karlskrona which at the time had 52 employees.
+During the first semester of my second year at Blekinge Institute of Technology, I took the course 'Individual Project' where we got assigned a company which gave us a project to work on for 4 months.
+I got to work for Softhouse Baltic AB, a division of Softhouse Consulting located in Karlskrona which at the time had 52 employees.
 My project was to create an prototype app for ABB in Karlskrona who work with high voltage cables.
-The app was supposed to display the cable routes in two views, a regular map view for good overview and an AR View for the field workers.
+The app was supposed to display the cable routes in two views, a regular map view for good overview and an AR View for the workers installing the cables.
 It also had a administration web interface for managing the cable routes.
 The project started in September 2015 and was completed in December 2015.
 
