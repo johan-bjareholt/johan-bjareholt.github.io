@@ -17,7 +17,7 @@ permalink: /about/
 - Stack Exchange
 - Arch Linux Forum, Wiki and AUR
 
-#### Current gear
+#### My electronics
 
 Phone
 
@@ -27,6 +27,7 @@ Phone
 
 Headphones
 
+- Fostex t50rp Mk3
 - AKG 553 Pro
 - AKG 612 Pro
 - Audio Technica M50s LE
