@@ -38,6 +38,7 @@ permalink: /projects/
 
 #### Guitars
 - [DIY Electric Guitar (LP)](/post/diy-guitar-lp)
+- [DIY Fuzz Effect Pedal](/post/diy-fuzz-pedal)
 
 #### Arduino
 - [Floppy Piano with Interface](https://github.com/johan-bjareholt/Floppy-Piano-Arduino)
