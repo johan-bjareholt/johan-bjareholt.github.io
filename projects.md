@@ -12,6 +12,7 @@ permalink: /projects/
 - [tiny-gtk-chat](https://github.com/johan-bjareholt/tiny-gtk-chat)
 - [algobit](https://github.com/algobit)
 - [Homebrain](/post/homebrain/)
+- [ActivityWatch](https://github.com/ActivityWatch/activitywatch)
 
 #### C++
 - [sdl2](https://github.com/johan-bjareholt/sdl2-test)
@@ -22,14 +23,18 @@ permalink: /projects/
 - [zentwm](https://github.com/johan-bjareholt/zentwm)
 - [dotfiles](https://github.com/johan-bjareholt/linux-configs)
 - [simple-image-viewer](https://github.com/johan-bjareholt/simple-image-viewer)
+- [http\_server](https://github.com/johan-bjareholt/DV1457-http_server)
 
 #### Android
 - [ARCableViewer](/post/AR-Cable-Viewer)
 - [BallJump](https://github.com/johan-bjareholt/BallJump)
 
-#### Interpreters
+#### Interpreters/Compilers
 - [lua-interpreter](https://github.com/johan-bjareholt/lua-interpreter/)
+- [lua-compiler](https://github.com/johan-bjareholt/lua-compiler/)
 
+#### Misc
+- [TorStatus](https://github.com/johan-bjareholt/TorStatus)
 
 ## Electronics
 
