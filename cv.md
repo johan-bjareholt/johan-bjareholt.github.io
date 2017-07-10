@@ -1,6 +1,6 @@
 ---
 layout: link
 title: CV
-permalink: /cv/
-linkurl: http://home.johan.bjareholt.com/cv/cv.html
+permalink: /cv-link/
+linkurl: http://johan.bjareholt.com/cv/cv.html
 ---
