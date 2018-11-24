@@ -1,6 +1,6 @@
 # Site settings
 title: Johan Bjäreholt
-description: > 
+description: >
   My name is Johan Bjäreholt, and I am a software engineering student from Sweden.
   I am a curious guy who looks for people to share interests and ideas with.
   This sites purpose is to showcase my free time projects and inspire others.
@@ -13,12 +13,9 @@ timezone: Europe/Stockholm
 # Contact info
 name: Johan Bjäreholt
 email: johan@bjareho.lt
-googleplus_username: JohanBjäreholt
 github_username:  johan-bjareholt
-facebook_username: johan.bjareholt
 linkedin_username: 234482057
 soundcloud_username: johanbjare
-
 
 # Build settings
 markdown: kramdown
