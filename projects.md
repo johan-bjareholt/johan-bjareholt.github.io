@@ -4,39 +4,40 @@ title: Projects
 permalink: /projects/
 ---
 
-## Programming
+## Software
 
-#### Python
-- [pygame-pong](https://github.com/johan-bjareholt/pygame-pong)
-- [pygame-rpg](https://github.com/johan-bjareholt/pygame-rpg)
-- [tiny-gtk-chat](https://github.com/johan-bjareholt/tiny-gtk-chat)
-- [algobit](https://github.com/algobit)
-- [Homebrain](/post/homebrain/)
+#### Primary
+
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch)
-
-#### C++
-- [sdl2](https://github.com/johan-bjareholt/sdl2-test)
-- [2d spacesim](https://github.com/johan-bjareholt/spacesim-2d)
-- [irrlicht](https://github.com/johan-bjareholt/irrlicht-test)
+- [Thankful](https://github.com/SuperuserLabs/thankful)
 
 #### Linux
 - [zentwm](https://github.com/johan-bjareholt/zentwm)
 - [dotfiles](https://github.com/johan-bjareholt/linux-configs)
 - [simple-image-viewer](https://github.com/johan-bjareholt/simple-image-viewer)
 - [http\_server](https://github.com/johan-bjareholt/DV1457-http_server)
-
-#### Android
-- [ARCableViewer](/post/AR-Cable-Viewer)
-- [BallJump](https://github.com/johan-bjareholt/BallJump)
+- [reddit-client-gtk](https://github.com/johan-bjareholt/reddit-client-gtk)
 
 #### Interpreters/Compilers
 - [lua-interpreter](https://github.com/johan-bjareholt/lua-interpreter/)
 - [lua-compiler](https://github.com/johan-bjareholt/lua-compiler/)
 
+#### Games
+- [pygame-pong](https://github.com/johan-bjareholt/pygame-pong)
+- [pygame-rpg](https://github.com/johan-bjareholt/pygame-rpg)
+- [2d spacesim](https://github.com/johan-bjareholt/spacesim-2d)
+
+#### Android
+- [ARCableViewer](/post/AR-Cable-Viewer)
+- [BallJump](https://github.com/johan-bjareholt/BallJump)
+
 #### Misc
+- [algobit](https://github.com/algobit)
+- [Homebrain](/post/homebrain/)
+- [tiny-gtk-chat](https://github.com/johan-bjareholt/tiny-gtk-chat)
 - [TorStatus](https://github.com/johan-bjareholt/TorStatus)
 
-## Electronics
+## Hardware
 
 #### Keyboards
 - [Ergodox Infinity](/post/ergodox-infinity)
