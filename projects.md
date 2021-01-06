@@ -17,6 +17,7 @@ permalink: /projects/
 - [simple-image-viewer](https://github.com/johan-bjareholt/simple-image-viewer)
 - [http\_server](https://github.com/johan-bjareholt/DV1457-http_server)
 - [reddit-client-gtk](https://github.com/johan-bjareholt/reddit-client-gtk)
+- [simple-diary](/post/simple-diary)
 
 #### Interpreters/Compilers
 - [lua-interpreter](https://github.com/johan-bjareholt/lua-interpreter/)
