@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SimpleDiary is now on flathub!"
-date:   2020-01-10 10:00:00
+date:   2021-01-10 10:00:00
 categories: blogpost
 ---
 
