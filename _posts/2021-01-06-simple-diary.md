@@ -13,7 +13,6 @@ I could not find a suitable Linux app available for that and since I’m a devel
 [The source code can be found on GitHub](https://github.com/johan-bjareholt/simple-diary-gtk)
 
 <figure style="width: 100%;">
-	<img style="width:32%; display: inline;" src="/img/projects/simple-diary/entry_list.png">
-	<img style="width:32%; display: inline;" src="/img/projects/simple-diary/entry_view.png">
-	<img style="width:32%; display: inline;" src="/img/projects/simple-diary/entry_edit.png">
+	<img style="width:49%; display: inline;" src="/img/projects/simple-diary/entry_view.png">
+	<img style="width:49%; display: inline;" src="/img/projects/simple-diary/entry_edit.png">
 </figure>
